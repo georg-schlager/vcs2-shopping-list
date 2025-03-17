@@ -1,6 +1,5 @@
 aepfel
 birnen
-orangen
 bier
 leberkaaas
   - normal

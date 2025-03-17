@@ -2,9 +2,6 @@ aepfel
 birnen
 bier
 leberkaaas
-  - normal
-  - pferde
-  - kaaas
 chips
 wurst
 kaese

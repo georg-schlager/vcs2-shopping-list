@@ -2,6 +2,7 @@ aepfel
 birnen
 bananen
 bier
+kekse
 leberkaaas
 chips
 wurst
